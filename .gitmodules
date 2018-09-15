@@ -1,3 +1,4 @@
 [submodule "Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi"]
 	path = Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi
-	url = https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi.git
+	url = https://github.com/DaElf/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi.git
+	branch = master
